@@ -20,7 +20,7 @@
     "svelte-preprocess": "^4.2.1"
   },
   "dependencies": {
-    "electron": "^10.1.1",
+    "electron": "^10.2.0",
     "electron-reload": "^1.5.0",
     "sirv-cli": "^1.0.0"
   }
